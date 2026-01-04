@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_confiance_1", "exo_confiance_1\exo_confiance_1.csproj", "{2BC46550-23A8-47E5-A049-F2EBFB75AB39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo_confiance_2", "exo_confiance_2\exo_confiance_2.csproj", "{1278CD47-CAF1-4F3A-AD09-CAC96B6404F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC46550-23A8-47E5-A049-F2EBFB75AB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC46550-23A8-47E5-A049-F2EBFB75AB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC46550-23A8-47E5-A049-F2EBFB75AB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC46550-23A8-47E5-A049-F2EBFB75AB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1278CD47-CAF1-4F3A-AD09-CAC96B6404F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278CD47-CAF1-4F3A-AD09-CAC96B6404F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1278CD47-CAF1-4F3A-AD09-CAC96B6404F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278CD47-CAF1-4F3A-AD09-CAC96B6404F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
