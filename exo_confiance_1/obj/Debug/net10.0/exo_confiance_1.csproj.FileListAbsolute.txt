@@ -12,3 +12,4 @@ S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_1\obj\Debug\net10.0\refin
 S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_1\obj\Debug\net10.0\exo_confiance_1.pdb
 S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_1\obj\Debug\net10.0\exo_confiance_1.genruntimeconfig.cache
 S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_1\obj\Debug\net10.0\ref\exo_confiance_1.dll
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_1\obj\Debug\net10.0\exo_confiance_1.sourcelink.json

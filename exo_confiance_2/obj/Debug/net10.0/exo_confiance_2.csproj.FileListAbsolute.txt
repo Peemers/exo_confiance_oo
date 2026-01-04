@@ -1,0 +1,15 @@
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\bin\Debug\net10.0\exo_confiance_2.exe
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\bin\Debug\net10.0\exo_confiance_2.deps.json
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\bin\Debug\net10.0\exo_confiance_2.runtimeconfig.json
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\bin\Debug\net10.0\exo_confiance_2.dll
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\bin\Debug\net10.0\exo_confiance_2.pdb
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.GeneratedMSBuildEditorConfig.editorconfig
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.AssemblyInfoInputs.cache
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.AssemblyInfo.cs
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.csproj.CoreCompileInputs.cache
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.sourcelink.json
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.dll
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\refint\exo_confiance_2.dll
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.pdb
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\exo_confiance_2.genruntimeconfig.cache
+S:\dev135j\C#\on ralenti\exo_confiance_1\exo_confiance_2\obj\Debug\net10.0\ref\exo_confiance_2.dll
