@@ -8,25 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8e061c4-3cba-4e18-a69b-b906c1cadb6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exo_confiance_2/Enums/ActionResult.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.exo_confiance_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.exo_confiance_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/bin/Debug/net10.0/exo_confiance_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/bin/Debug/net10.0/exo_confiance_1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/bin/Debug/net10.0/exo_confiance_1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/bin/Debug/net10.0/exo_confiance_1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/bin/Debug/net10.0/exo_confiance_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/bin/Debug/net10.0/exo_confiance_1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/exo_confiance_1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/ref/exo_confiance_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/ref/exo_confiance_1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/refint/exo_confiance_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_1/obj/Debug/net10.0/refint/exo_confiance_1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_2/Models/LecteurAudio.cs" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_2/Models/LecteurAudio.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_2/obj/Debug/net10.0/exo_confiance_2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_2/obj/Debug/net10.0/exo_confiance_2.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo_confiance_2/obj/Debug/net10.0/exo_confiance_2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/exo_confiance_2/obj/Debug/net10.0/exo_confiance_2.AssemblyInfoInputs.cache" afterDir="false" />
-    </list>
+    <list default="true" id="e8e061c4-3cba-4e18-a69b-b906c1cadb6c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767536659722</updated>
-      <workItem from="1767536661022" duration="12347000" />
+      <workItem from="1767536661022" duration="12592000" />
     </task>
     <task id="LOCAL-00001" summary="fisrt commit">
       <option name="closed" value="true" />
@@ -143,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767542194596</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="avavancée exo 2">
+      <option name="closed" value="true" />
+      <created>1767553053632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767553053632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="fisrt commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fisrt commit" />
+    <MESSAGE value="avavancée exo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="avavancée exo 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
